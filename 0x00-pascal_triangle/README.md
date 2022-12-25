@@ -1,5 +1,5 @@
 ## PASCAL'S TRIANGLE
 
-# Algorthm Python
+# Algorthim Python
 
  By: Joakim Bug
